@@ -297,3 +297,8 @@ main section .split>div:last-child {
         flex: none;
     }
 }
+
+hr{
+	border-top: 2px dashed; 
+	width: 100%;
+}
